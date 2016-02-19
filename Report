@@ -1,2 +1,7 @@
 Report
 The objective of this program was to understand how to perform basic calculations, how to create "for" loops, and how to generate specific printed results from user input.
+This was accomplished by utilizing a combination of "if" and "for" loops in conjunction with imput by the user in order to calculate a specific output of characters, which was then printed as a result.
+Of particular note was the issue of the user entering two or more characters in regards to a single input.
+While this presented no issue in regards to the code of Project 1 (due to its simplicity) or the code of Projects 4 and 5 (due to the input being exclusively integers), this did prevent the code of Project 2 from functioning properly, necessitating the adjustments that led to the creation of Project 3.
+With that said, an issue I observed in the development of this program was encountered in Projects 4 and 5; specifically, I was unsure of how to make a printed result that could be considered geometrically perfect relative to their respective intended results.
+In simpler terms, I was unable to make a perfectly spaced parabola and circle, although the code of each project should still create results that can be considered accurate enough to at least appear recognizable as parabolas and circles.
